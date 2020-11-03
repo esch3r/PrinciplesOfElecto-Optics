@@ -1,13 +1,13 @@
-# PrinciplesOfElecto-Optics Virtual Textbook 
+# Electo-Optics Virtual Textbook 
 
 ## Table of contents
 1. [Geometical Optics](#Geometical Optics)
-         1.1 [Introduction](#Introduction_1)
-         1.2 [Electromagnetic Spectrum](#Electromagnetic Spectrum)
+    1.1 [Introduction](#Introduction_1)
+    1.2 [Electromagnetic Spectrum](#Electromagnetic Spectrum)
 2. [Modulation Transfer Function](#Modulation Transfer Function)
-         2.1 [Introduction](#Introduction_2)
-         2.2 [Transfer Functions](#Transfer Functions)
-         2.3 [Resolution](#Resolution) 
+    2.1 [Introduction](#Introduction_2)
+    2.2 [Transfer Functions](#Transfer Functions)
+    2.3 [Resolution](#Resolution) 
          2.4 [MTF Calculations](#MTF Calculations)
 3. [Radiometry](#Radiometry)
          3.1 [Introduction](#Introduction_3)
